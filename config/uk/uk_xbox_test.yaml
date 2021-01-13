@@ -1,0 +1,12 @@
+---
+refresh_interval: 5 # seconds
+max_price: 510
+urls:
+    - https://www.amazon.co.uk/Seagate-Storage-Expansion-Solid-State/dp/B08K48F6QZ/ref=bmx_1/258-5621214-2428660
+    - https://www.very.co.uk/xbox-series-x-wireless-controller-robot-white/1600503679.prd
+    - https://www.currys.co.uk/gbuk/gaming/console-gaming/consoles/microsoft-xbox-series-s-512-gb-ssd-10205195-pdt.html
+    - https://www.game.co.uk/en/xbox-play-and-charge-kit-rechargeable-battery-usb-c-cable-2836781
+    - https://www.argos.co.uk/product/8399139
+    - https://ao.com/product/qas00002-xbox-series-x-gaming-accessories-white-79629-292.aspx
+    - https://www.ebuyer.com/1133679
+...

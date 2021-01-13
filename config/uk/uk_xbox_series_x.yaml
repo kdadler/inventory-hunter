@@ -1,0 +1,12 @@
+---
+refresh_interval: 120 # seconds
+max_price: 510
+urls:
+    - https://www.amazon.co.uk/Xbox-RRT-00007-Series-X/dp/B08H93GKNJ
+    - https://www.very.co.uk/xbox-series-x-xbox-series-x-optional-extras/1600503631.prd
+    - https://www.currys.co.uk/gbuk/gaming/console-gaming/consoles/microsoft-xbox-series-x-1-tb-10203371-pdt.html
+    - https://www.game.co.uk/en/xbox-series-x-2831406
+    - https://www.argos.co.uk/product/8448262
+    - https://ao.com/l/newxboxlaunch/267/99
+    - https://www.ebuyer.com/1133948
+...
